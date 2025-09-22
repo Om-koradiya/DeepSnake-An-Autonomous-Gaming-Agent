@@ -10,6 +10,6 @@ An intelligent agent learns to play the classic Snake game using a Deep Q-Networ
 
 ## How to Run
 
-1.  Clone the repo: `git clone [URL]`
+1.  Clone the repo: `git clone [git clone https://github.com/Om-koradiya/DeepSnake-An-Autonomous-Gaming-Agent]`
 2.  Install dependencies: `pip install torch pygame numpy matplotlib`
 3.  Run the training script: `python agent.py`
